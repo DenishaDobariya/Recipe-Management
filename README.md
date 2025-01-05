@@ -25,7 +25,7 @@ Food Recipe Blog is a React-based web application that allows users to share the
 
        cd Recipe-Management
 
-**2. Setup the backend server: **
+**2. Setup the backend server**
 
 - Navigate to backend directory : 
 
