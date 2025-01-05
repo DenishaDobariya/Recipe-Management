@@ -1,4 +1,4 @@
-# Food Recipe Blog
+# Recipe Management
 
 Food Recipe Blog is a React-based web application that allows users to share their recipes, view their own recipes, and mark their favorite recipes. Users can log in to the platform, view recipes, and interact with the content.
 
